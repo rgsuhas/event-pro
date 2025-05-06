@@ -2,6 +2,9 @@
 
 A modern web application for discovering and sharing technology events worldwide. Built with Next.js, Tailwind CSS, and Supabase.
 
+
+![alt text](image.png)
+
 ## Features
 
 - 📅 Browse upcoming tech events
